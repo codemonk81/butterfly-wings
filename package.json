@@ -18,9 +18,10 @@
   },
   "homepage": "https://github.com/codemonk81/butterfly-wings#readme",
   "devDependencies": {
-    "@wordpress/scripts": "^30.24.0",
+    "@wordpress/scripts": "^16.1.5",
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.6",
+    "postcss-cli": "^11.0.1",
     "tailwindcss": "^3.4.17"
   }
 }

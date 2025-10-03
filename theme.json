@@ -1,0 +1,47 @@
+{
+    "version": 2,
+    "settings": {
+        "color": {
+            "palette": [
+                {
+                    "name": "Primary",
+                    "slug": "primary",
+                    "color": "#007cba"
+                },
+                {
+                    "name": "Secondary",
+                    "slug": "secondary",
+                    "color": "#d54e21"
+                }
+            ]
+        },
+        "typography": {
+            "fontSizes": [
+                {
+                    "name": "Small",
+                    "slug": "small",
+                    "size": "12px"
+                },
+                {
+                    "name": "Normal",
+                    "slug": "normal",
+                    "size": "16px"
+                },
+                {
+                    "name": "Large",
+                    "slug": "large",
+                    "size": "24px"
+                }
+            ]
+        }
+    },
+    "styles": {
+        "color": {
+            "background": "#ffffff",
+            "text": "#333333"
+        },
+        "typography": {
+            "fontFamily": "Arial, sans-serif"
+        }
+    }
+}
